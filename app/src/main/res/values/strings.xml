@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">幕景声语</string>
+    <string name="font_size">字号调节</string>
+    <string name="reduce_font_size">-</string>
+    <string name="reduce_font_size_description">减小字号</string>
+    <string name="increase_font_size">+</string>
+    <string name="increase_font_size_description">增大字号</string>
+    <string name="apply_for_permission">请在设置中授予权限</string>
+</resources>
